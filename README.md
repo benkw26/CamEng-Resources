@@ -70,6 +70,7 @@ This repository contains personal study notes taken throughout my time at Cambri
   - [1P4 Mathematics](./Notes/1P4_Mathematics.pdf)
   - [2P7 Mathematics](./Notes/2P7_Mathematics.pdf)  
   - [3M1 Mathematical Methods](./Notes/3M1_Mathematical_Methods.pdf)
+  - [1PX Dimensional Analysis](./Notes/1PX_Dimensional_Analysis.pdf)
 - Business
   - [2P8 Business](./Notes/2P8_Business.pdf)
   - 3E1 Business Economics
